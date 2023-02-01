@@ -48,29 +48,6 @@ Provide flexibility to members for managing and updating registered member detai
 - NodeJS
 - Bootstrap
 
-## Installation
-
-1. `npm install`
-2. `node server.js`
-
-At this point, you have all the necessary files to run the projet. You will still need to configure your MongoDB database in .env file.
-
-
-## Configuration of .env file
-.env file constists of two variables
-- MONGO_URI = mongodb+srv://{username}:{password}@cluster-society.xduxu.mongodb.net/societyDB?retryWrites=true&w=majority
-- SECRET_KEY = sk_test_51LRWpWSFFrMuplgrwEOm(Key from Stripe Payment Gateway)
-
-Create a new project on MongoDB with the name "E-Society". And a cluster named "Cluster-Society" under the same project.
-Use the username, password of your new project in the above string.
-
-## Contributions
-  
-Development contributors: 
-- [Nisarg Shah](https://github.com/nisarg0606/)
-- [Deesha Patel](https://github.com/deeshapatel02/)
-- [Meet Guna](https://github.com/MeetGuna1534)
-
 <img src= 'https://user-images.githubusercontent.com/65078610/112977547-d114cd00-9173-11eb-9768-8dc29a38a98d.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977718-00c3d500-9174-11eb-8271-193384b88b5c.png' width="1200">
 <img src= 'https://user-images.githubusercontent.com/65078610/112977767-0e795a80-9174-11eb-9f42-e8eb382e0c51.png' width="1200">
