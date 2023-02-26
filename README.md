@@ -5,8 +5,6 @@ It is capable of simplifying everyday living for your housing society.
 Manage accounts, due payments, resolve complaints and keep the community up-to-date with all that’s going on in the society-to a single click.
 Easy for the management committee and residents.
 
-### Deployed website link => [https://e-society2022.herokuapp.com/](https://e-society2022.herokuapp.com/)
-
 ## User types
 
 - General user - The member in the housing society. Can view community residents, access noticeboard & maintenance bills, bill payments. And raise a ticket to the admin.
